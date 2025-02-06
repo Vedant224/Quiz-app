@@ -42,9 +42,10 @@ The app fetches quiz data from the following API endpoint:
 
 ## Screenshots
 
-(Include screenshots of your app here)
+![image](https://github.com/user-attachments/assets/96803baa-c610-479e-af04-a4a3e315a9e0)
+
 
 ## Video Walkthrough
 
-(Include a link to a short video walkthrough of your app here)
+[Watch the video]((https://drive.google.com/file/d/1WlNMqzTExdKFodzjnOoojMBg0NpaPq71/view?usp=sharing))
 
