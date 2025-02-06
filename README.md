@@ -43,8 +43,8 @@ The app fetches quiz data from the following API endpoint:
 ## Screenshots
 
 ![Screenshot 2025-02-07 012643](https://github.com/user-attachments/assets/fd83b30d-f7df-4c94-bf1d-2bffcfb0ec65)
-![Screenshot 2025-02-07 012643](https://github.com/user-attachments/assets/85dd960b-6b50-40e2-8877-1862032eb819)
 ![Screenshot 2025-02-07 012822](https://github.com/user-attachments/assets/118d2856-f172-4d89-b5c5-3698eb57ddd9)
+![Screenshot 2025-02-07 012729](https://github.com/user-attachments/assets/25debf13-9fc5-4655-b057-32ffbed4b6eb)
 
 
 
