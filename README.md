@@ -42,10 +42,15 @@ The app fetches quiz data from the following API endpoint:
 
 ## Screenshots
 
-![image](https://github.com/user-attachments/assets/96803baa-c610-479e-af04-a4a3e315a9e0)
+![Screenshot 2025-02-07 012643](https://github.com/user-attachments/assets/fd83b30d-f7df-4c94-bf1d-2bffcfb0ec65)
+![Screenshot 2025-02-07 012643](https://github.com/user-attachments/assets/85dd960b-6b50-40e2-8877-1862032eb819)
+![Screenshot 2025-02-07 012822](https://github.com/user-attachments/assets/118d2856-f172-4d89-b5c5-3698eb57ddd9)
+
+
 
 
 ## Video Walkthrough
 
-[Watch the video]((https://drive.google.com/file/d/1WlNMqzTExdKFodzjnOoojMBg0NpaPq71/view?usp=sharing))
+[Watch the video](https://drive.google.com/file/d/1WlNMqzTExdKFodzjnOoojMBg0NpaPq71/view?usp=sharing)
+
 
