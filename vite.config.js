@@ -13,4 +13,7 @@ export default defineConfig({
       },
     },
   },
+  define: {
+    'process.env.VITE_API_URL': JSON.stringify('https://api.jsonserve.com/Uw5CrX')
+  }
 })
