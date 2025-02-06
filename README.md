@@ -30,14 +30,6 @@ This is a web-based quiz application built with React and Tailwind CSS. It fetch
 
 4. Open your browser and navigate to \`http://localhost:5173\` to view the app.
 
-## Project Structure
-
-- \`src/App.js\`: Main component that manages the quiz state and renders other components
-- \`src/components/StartQuiz.js\`: Component for the quiz start page
-- \`src/components/Question.js\`: Component for displaying questions and answer options
-- \`src/components/Results.js\`: Component for showing the quiz results
-- \`src/components/ProgressBar.js\`: Component for displaying the quiz progress
-
 ## Technologies Used
 
 - React
