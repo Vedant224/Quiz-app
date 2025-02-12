@@ -14,7 +14,7 @@ This is a web-based quiz application built with React and Tailwind CSS. It fetch
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/Quiz-app.git
+git clone https://github.com/Vedant224/Quiz-app.git
 cd Quiz-app
 ```
 
